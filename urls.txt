@@ -1,4 +1,4 @@
-https://www.agu.edu.tr
+https://w3.agu.edu.tr
 https://www.atu.edu.tr
 https://www.adiyaman.edu.tr
 https://aku.edu.tr
@@ -21,7 +21,7 @@ https://www.bayburt.edu.tr
 https://www.bilecik.edu.tr
 https://www.bingol.edu.tr
 https://www.beu.edu.tr
-https://www.boun.edu.tr
+https://www.bogazici.edu.tr
 https://www.btu.edu.tr
 https://www.uludag.edu.tr
 https://www.comu.edu.tr
