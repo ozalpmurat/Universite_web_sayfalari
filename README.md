@@ -1,5 +1,5 @@
 # Universite_web_sayfalari
-Üniversitelerin ana web sayfasını indirip boyutunu hesaplıyor
+Üniversitelerin ana web sayfasını indirip ana sayfadaki toplam istek sayısını ve sayfa boyutunu (MB cinsinden) çıktı veriyor.
 
 # Özellikler
 - `urls.txt` içinden URL'leri okur (başında http yoksa https ekler)
